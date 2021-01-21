@@ -1,5 +1,5 @@
 # Intro_Spatial_Data_Science_Project
-Introduction to Spatial Data Science - Final Project Guidelines
+## Introduction to Spatial Data Science - Final Project Guidelines
 Luc Anselin Revised 09/15/2019
 
 The final project should pull together a range of techniques covered in the class to carry out a spatial data exploration. Ideally, this should result in the identification of potential hypotheses or relationships, or lead to discovering the unexpected.
