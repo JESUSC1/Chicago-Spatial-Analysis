@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <title>injury_unintentional</title>
+    <layers>
+        <layer>
+            <datasource>
+                <type>ESRI Shapefile</type>
+                <path>injury_unintentional.shp</path>
+            </datasource>
+            <layername>injury_unintentional</layername>
+            <title/>
+            <variable_order>
+                <time_ids>
+                    <id>time 0</id>
+                </time_ids>
+                <var>POLY_ID</var>
+                <var>commnty</var>
+                <var>area</var>
+                <var>shape_r</var>
+                <var>perimtr</var>
+                <var>ar_nm_1</var>
+                <var>are_nmb</var>
+                <var>comar_d</var>
+                <var>comarea</var>
+                <var>shap_ln</var>
+                <var>cs_f_dt</var>
+                <var>
+                    avrg_d_
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>adjst__</var>
+                <var>hrdshp_</var>
+                <var>pr_cpt_</var>
+                <var>
+                    dstnc__
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+            </variable_order>
+            <custom_classifications/>
+            <weights_entries>
+                <weights>
+                    <title>queen_wgt</title>
+                    <default/>
+                    <meta_info>
+                        <weights_type>queen</weights_type>
+                        <order>1</order>
+                        <inc_lower_orders>false</inc_lower_orders>
+                        <path>queen_wgt.gal</path>
+                        <id_variable>POLY_ID</id_variable>
+                        <symmetry>symmetric</symmetry>
+                        <num_observations>77</num_observations>
+                        <min_neighbors>1</min_neighbors>
+                        <max_neighbors>9</max_neighbors>
+                        <mean_neighbors>5.116883116883117</mean_neighbors>
+                        <median_neighbors>5</median_neighbors>
+                        <non_zero_perc>6.645302749198853</non_zero_perc>
+                    </meta_info>
+                </weights>
+            </weights_entries>
+            <default_vars>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+            </default_vars>
+        </layer>
+    </layers>
+</project>

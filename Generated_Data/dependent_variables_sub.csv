@@ -1,0 +1,301 @@
+"commnty","cs_f_dt","avrg_d_"
+"DOUGLAS","coronary heart disease",188.5
+"DOUGLAS","diabetes-related",43
+"DOUGLAS","injury, unintentional",35.8
+"DOUGLAS","stroke (cerebrovascular disease)",61.5
+"OAKLAND","coronary heart disease",142.4
+"OAKLAND","diabetes-related",43.6
+"OAKLAND","injury, unintentional",32.1
+"OAKLAND","stroke (cerebrovascular disease)",38.3
+"FULLER PARK","coronary heart disease",248.4
+"FULLER PARK","diabetes-related",32.8
+"FULLER PARK","injury, unintentional",57.7
+"FULLER PARK","stroke (cerebrovascular disease)",87.7
+"GRAND BOULEVARD","coronary heart disease",157.6
+"GRAND BOULEVARD","diabetes-related",31.6
+"GRAND BOULEVARD","injury, unintentional",42.9
+"GRAND BOULEVARD","stroke (cerebrovascular disease)",49
+"KENWOOD","coronary heart disease",110.2
+"KENWOOD","diabetes-related",23.2
+"KENWOOD","injury, unintentional",19.2
+"KENWOOD","stroke (cerebrovascular disease)",30.2
+"LINCOLN SQUARE","coronary heart disease",137.9
+"LINCOLN SQUARE","diabetes-related",20.3
+"LINCOLN SQUARE","injury, unintentional",23.9
+"LINCOLN SQUARE","stroke (cerebrovascular disease)",30.6
+"WASHINGTON PARK","coronary heart disease",184.2
+"WASHINGTON PARK","diabetes-related",35
+"WASHINGTON PARK","injury, unintentional",62.7
+"WASHINGTON PARK","stroke (cerebrovascular disease)",61.2
+"HYDE PARK","coronary heart disease",82.8
+"HYDE PARK","diabetes-related",10.4
+"HYDE PARK","injury, unintentional",17.4
+"HYDE PARK","stroke (cerebrovascular disease)",28.5
+"WOODLAWN","coronary heart disease",160.9
+"WOODLAWN","diabetes-related",40.5
+"WOODLAWN","injury, unintentional",40
+"WOODLAWN","stroke (cerebrovascular disease)",53
+"ROGERS PARK","coronary heart disease",204.6
+"ROGERS PARK","diabetes-related",31.4
+"ROGERS PARK","injury, unintentional",25.7
+"ROGERS PARK","stroke (cerebrovascular disease)",32.3
+"JEFFERSON PARK","coronary heart disease",146.4
+"JEFFERSON PARK","diabetes-related",15.7
+"JEFFERSON PARK","injury, unintentional",28.8
+"JEFFERSON PARK","stroke (cerebrovascular disease)",37.5
+"FOREST GLEN","coronary heart disease",103.2
+"FOREST GLEN","diabetes-related",17
+"FOREST GLEN","injury, unintentional",22.3
+"FOREST GLEN","stroke (cerebrovascular disease)",30.1
+"NORTH PARK","coronary heart disease",116.1
+"NORTH PARK","diabetes-related",19.7
+"NORTH PARK","injury, unintentional",18.1
+"NORTH PARK","stroke (cerebrovascular disease)",24.5
+"ALBANY PARK","coronary heart disease",131.1
+"ALBANY PARK","diabetes-related",26.9
+"ALBANY PARK","injury, unintentional",19.6
+"ALBANY PARK","stroke (cerebrovascular disease)",37.3
+"PORTAGE PARK","coronary heart disease",155.9
+"PORTAGE PARK","diabetes-related",16.9
+"PORTAGE PARK","injury, unintentional",27.4
+"PORTAGE PARK","stroke (cerebrovascular disease)",35.3
+"IRVING PARK","coronary heart disease",147.9
+"IRVING PARK","diabetes-related",23.8
+"IRVING PARK","injury, unintentional",27.1
+"IRVING PARK","stroke (cerebrovascular disease)",39.2
+"DUNNING","coronary heart disease",131
+"DUNNING","diabetes-related",14.4
+"DUNNING","injury, unintentional",31.8
+"DUNNING","stroke (cerebrovascular disease)",31.5
+"BELMONT CRAGIN","coronary heart disease",162.1
+"BELMONT CRAGIN","diabetes-related",24.5
+"BELMONT CRAGIN","injury, unintentional",26.5
+"BELMONT CRAGIN","stroke (cerebrovascular disease)",34.9
+"WEST RIDGE","coronary heart disease",136.3
+"WEST RIDGE","diabetes-related",24.5
+"WEST RIDGE","injury, unintentional",21.1
+"WEST RIDGE","stroke (cerebrovascular disease)",34.3
+"HERMOSA","coronary heart disease",133
+"HERMOSA","diabetes-related",21.8
+"HERMOSA","injury, unintentional",24.6
+"HERMOSA","stroke (cerebrovascular disease)",30.1
+"AVONDALE","coronary heart disease",160.3
+"AVONDALE","diabetes-related",23.8
+"AVONDALE","injury, unintentional",27.1
+"AVONDALE","stroke (cerebrovascular disease)",40.3
+"LOGAN SQUARE","coronary heart disease",152.2
+"LOGAN SQUARE","diabetes-related",34.7
+"LOGAN SQUARE","injury, unintentional",26.5
+"LOGAN SQUARE","stroke (cerebrovascular disease)",33.2
+"HUMBOLDT PARK","coronary heart disease",159.8
+"HUMBOLDT PARK","diabetes-related",40.3
+"HUMBOLDT PARK","injury, unintentional",54.4
+"HUMBOLDT PARK","stroke (cerebrovascular disease)",58.7
+"WEST TOWN","coronary heart disease",161.6
+"WEST TOWN","diabetes-related",45.2
+"WEST TOWN","injury, unintentional",27.8
+"WEST TOWN","stroke (cerebrovascular disease)",33.8
+"AUSTIN","coronary heart disease",167.1
+"AUSTIN","diabetes-related",35.2
+"AUSTIN","injury, unintentional",46.4
+"AUSTIN","stroke (cerebrovascular disease)",56.8
+"WEST GARFIELD PARK","coronary heart disease",183.3
+"WEST GARFIELD PARK","diabetes-related",37.6
+"WEST GARFIELD PARK","injury, unintentional",77.5
+"WEST GARFIELD PARK","stroke (cerebrovascular disease)",71
+"EAST GARFIELD PARK","coronary heart disease",197.1
+"EAST GARFIELD PARK","diabetes-related",37.6
+"EAST GARFIELD PARK","injury, unintentional",50.4
+"EAST GARFIELD PARK","stroke (cerebrovascular disease)",38.9
+"NEAR WEST SIDE","coronary heart disease",138.3
+"NEAR WEST SIDE","diabetes-related",19.7
+"NEAR WEST SIDE","injury, unintentional",31.8
+"NEAR WEST SIDE","stroke (cerebrovascular disease)",40.9
+"NORTH LAWNDALE","coronary heart disease",135.7
+"NORTH LAWNDALE","diabetes-related",38.4
+"NORTH LAWNDALE","injury, unintentional",46.9
+"NORTH LAWNDALE","stroke (cerebrovascular disease)",66.3
+"UPTOWN","coronary heart disease",213.6
+"UPTOWN","diabetes-related",37.1
+"UPTOWN","injury, unintentional",26.1
+"UPTOWN","stroke (cerebrovascular disease)",39.4
+"SOUTH LAWNDALE","coronary heart disease",100.1
+"SOUTH LAWNDALE","diabetes-related",31.3
+"SOUTH LAWNDALE","injury, unintentional",19.7
+"SOUTH LAWNDALE","stroke (cerebrovascular disease)",34.1
+"LOWER WEST SIDE","coronary heart disease",117.6
+"LOWER WEST SIDE","diabetes-related",23.4
+"LOWER WEST SIDE","injury, unintentional",32.8
+"LOWER WEST SIDE","stroke (cerebrovascular disease)",37.3
+"NEAR SOUTH SIDE","coronary heart disease",104
+"NEAR SOUTH SIDE","diabetes-related",17.2
+"NEAR SOUTH SIDE","injury, unintentional",17
+"NEAR SOUTH SIDE","stroke (cerebrovascular disease)",46.4
+"ARMOUR SQUARE","coronary heart disease",83.4
+"ARMOUR SQUARE","diabetes-related",10.9
+"ARMOUR SQUARE","injury, unintentional",18.2
+"ARMOUR SQUARE","stroke (cerebrovascular disease)",37.1
+"NORWOOD PARK","coronary heart disease",140.2
+"NORWOOD PARK","diabetes-related",13.5
+"NORWOOD PARK","injury, unintentional",25.8
+"NORWOOD PARK","stroke (cerebrovascular disease)",41.3
+"NEAR NORTH SIDE","coronary heart disease",85.1
+"NEAR NORTH SIDE","diabetes-related",8.6
+"NEAR NORTH SIDE","injury, unintentional",16.6
+"NEAR NORTH SIDE","stroke (cerebrovascular disease)",21.3
+"LOOP","coronary heart disease",86.6
+"LOOP","diabetes-related",5.4
+"LOOP","injury, unintentional",19
+"LOOP","stroke (cerebrovascular disease)",29.4
+"SOUTH SHORE","coronary heart disease",161.9
+"SOUTH SHORE","diabetes-related",32.1
+"SOUTH SHORE","injury, unintentional",41.9
+"SOUTH SHORE","stroke (cerebrovascular disease)",53.1
+"CHATHAM","coronary heart disease",133.7
+"CHATHAM","diabetes-related",37.7
+"CHATHAM","injury, unintentional",35.3
+"CHATHAM","stroke (cerebrovascular disease)",42.1
+"AVALON PARK","coronary heart disease",123.2
+"AVALON PARK","diabetes-related",33.6
+"AVALON PARK","injury, unintentional",36
+"AVALON PARK","stroke (cerebrovascular disease)",44.9
+"SOUTH CHICAGO","coronary heart disease",136.1
+"SOUTH CHICAGO","diabetes-related",27.5
+"SOUTH CHICAGO","injury, unintentional",33.7
+"SOUTH CHICAGO","stroke (cerebrovascular disease)",43.5
+"BURNSIDE","coronary heart disease",141.7
+"BURNSIDE","diabetes-related",48.7
+"BURNSIDE","injury, unintentional",37
+"BURNSIDE","stroke (cerebrovascular disease)",81.3
+"MCKINLEY PARK","coronary heart disease",156.4
+"MCKINLEY PARK","diabetes-related",25.2
+"MCKINLEY PARK","injury, unintentional",26
+"MCKINLEY PARK","stroke (cerebrovascular disease)",54.8
+"LAKE VIEW","coronary heart disease",124.1
+"LAKE VIEW","diabetes-related",20.8
+"LAKE VIEW","injury, unintentional",17.8
+"LAKE VIEW","stroke (cerebrovascular disease)",26.8
+"CALUMET HEIGHTS","coronary heart disease",122.6
+"CALUMET HEIGHTS","diabetes-related",42.7
+"CALUMET HEIGHTS","injury, unintentional",36.7
+"CALUMET HEIGHTS","stroke (cerebrovascular disease)",38.9
+"ROSELAND","coronary heart disease",158.3
+"ROSELAND","diabetes-related",27.9
+"ROSELAND","injury, unintentional",29.9
+"ROSELAND","stroke (cerebrovascular disease)",51.5
+"NORTH CENTER","coronary heart disease",140.1
+"NORTH CENTER","diabetes-related",19.4
+"NORTH CENTER","injury, unintentional",23.2
+"NORTH CENTER","stroke (cerebrovascular disease)",39.8
+"PULLMAN","coronary heart disease",134.6
+"PULLMAN","diabetes-related",27.9
+"PULLMAN","injury, unintentional",30.4
+"PULLMAN","stroke (cerebrovascular disease)",62.1
+"SOUTH DEERING","coronary heart disease",131.7
+"SOUTH DEERING","diabetes-related",37.5
+"SOUTH DEERING","injury, unintentional",26.7
+"SOUTH DEERING","stroke (cerebrovascular disease)",56.9
+"EAST SIDE","coronary heart disease",106.5
+"EAST SIDE","diabetes-related",35.1
+"EAST SIDE","injury, unintentional",37
+"EAST SIDE","stroke (cerebrovascular disease)",32.3
+"WEST PULLMAN","coronary heart disease",169.2
+"WEST PULLMAN","diabetes-related",33.2
+"WEST PULLMAN","injury, unintentional",41.2
+"WEST PULLMAN","stroke (cerebrovascular disease)",61.1
+"RIVERDALE","coronary heart disease",123.9
+"RIVERDALE","diabetes-related",48.4
+"RIVERDALE","injury, unintentional",20.7
+"RIVERDALE","stroke (cerebrovascular disease)",84.6
+"HEGEWISCH","coronary heart disease",137.6
+"HEGEWISCH","diabetes-related",24.5
+"HEGEWISCH","injury, unintentional",23.3
+"HEGEWISCH","stroke (cerebrovascular disease)",47.4
+"GARFIELD RIDGE","coronary heart disease",184.7
+"GARFIELD RIDGE","diabetes-related",25.4
+"GARFIELD RIDGE","injury, unintentional",32.1
+"GARFIELD RIDGE","stroke (cerebrovascular disease)",42.9
+"ARCHER HEIGHTS","coronary heart disease",157.3
+"ARCHER HEIGHTS","diabetes-related",17.1
+"ARCHER HEIGHTS","injury, unintentional",42
+"ARCHER HEIGHTS","stroke (cerebrovascular disease)",47.9
+"BRIGHTON PARK","coronary heart disease",125.8
+"BRIGHTON PARK","diabetes-related",28
+"BRIGHTON PARK","injury, unintentional",26.6
+"BRIGHTON PARK","stroke (cerebrovascular disease)",39.4
+"BRIDGEPORT","coronary heart disease",134.7
+"BRIDGEPORT","diabetes-related",22.5
+"BRIDGEPORT","injury, unintentional",28.6
+"BRIDGEPORT","stroke (cerebrovascular disease)",36.7
+"NEW CITY","coronary heart disease",172.9
+"NEW CITY","diabetes-related",35.7
+"NEW CITY","injury, unintentional",40.2
+"NEW CITY","stroke (cerebrovascular disease)",49.1
+"WEST ELSDON","coronary heart disease",155.2
+"WEST ELSDON","diabetes-related",26.9
+"WEST ELSDON","injury, unintentional",32.8
+"WEST ELSDON","stroke (cerebrovascular disease)",39.9
+"GAGE PARK","coronary heart disease",127.7
+"GAGE PARK","diabetes-related",26.8
+"GAGE PARK","injury, unintentional",30.6
+"GAGE PARK","stroke (cerebrovascular disease)",56.7
+"CLEARING","coronary heart disease",167.6
+"CLEARING","diabetes-related",28.8
+"CLEARING","injury, unintentional",26.3
+"CLEARING","stroke (cerebrovascular disease)",56
+"WEST LAWN","coronary heart disease",131.5
+"WEST LAWN","diabetes-related",23.7
+"WEST LAWN","injury, unintentional",20.4
+"WEST LAWN","stroke (cerebrovascular disease)",38.2
+"CHICAGO LAWN","coronary heart disease",156.4
+"CHICAGO LAWN","diabetes-related",24.3
+"CHICAGO LAWN","injury, unintentional",28.8
+"CHICAGO LAWN","stroke (cerebrovascular disease)",60.5
+"WEST ENGLEWOOD","coronary heart disease",161.4
+"WEST ENGLEWOOD","diabetes-related",36.2
+"WEST ENGLEWOOD","injury, unintentional",60.5
+"WEST ENGLEWOOD","stroke (cerebrovascular disease)",60.1
+"ENGLEWOOD","coronary heart disease",182.7
+"ENGLEWOOD","diabetes-related",42.4
+"ENGLEWOOD","injury, unintentional",64.2
+"ENGLEWOOD","stroke (cerebrovascular disease)",66.8
+"GREATER GRAND CROSSING","coronary heart disease",165
+"GREATER GRAND CROSSING","diabetes-related",36.8
+"GREATER GRAND CROSSING","injury, unintentional",32.3
+"GREATER GRAND CROSSING","stroke (cerebrovascular disease)",53.5
+"LINCOLN PARK","coronary heart disease",132.9
+"LINCOLN PARK","diabetes-related",13.9
+"LINCOLN PARK","injury, unintentional",14.4
+"LINCOLN PARK","stroke (cerebrovascular disease)",33.6
+"ASHBURN","coronary heart disease",137.9
+"ASHBURN","diabetes-related",25.9
+"ASHBURN","injury, unintentional",21.4
+"ASHBURN","stroke (cerebrovascular disease)",45.9
+"AUBURN GRESHAM","coronary heart disease",140
+"AUBURN GRESHAM","diabetes-related",31
+"AUBURN GRESHAM","injury, unintentional",39.9
+"AUBURN GRESHAM","stroke (cerebrovascular disease)",59.2
+"BEVERLY","coronary heart disease",132.6
+"BEVERLY","diabetes-related",19.8
+"BEVERLY","injury, unintentional",18.4
+"BEVERLY","stroke (cerebrovascular disease)",49.7
+"WASHINGTON HEIGHTS","coronary heart disease",147.6
+"WASHINGTON HEIGHTS","diabetes-related",31.9
+"WASHINGTON HEIGHTS","injury, unintentional",36.8
+"WASHINGTON HEIGHTS","stroke (cerebrovascular disease)",52.7
+"MOUNT GREENWOOD","coronary heart disease",153.2
+"MOUNT GREENWOOD","diabetes-related",22.6
+"MOUNT GREENWOOD","injury, unintentional",34.3
+"MOUNT GREENWOOD","stroke (cerebrovascular disease)",29.2
+"MORGAN PARK","coronary heart disease",138.6
+"MORGAN PARK","diabetes-related",23
+"MORGAN PARK","injury, unintentional",32.9
+"MORGAN PARK","stroke (cerebrovascular disease)",43.3
+"EDGEWATER","coronary heart disease",135.7
+"EDGEWATER","diabetes-related",20.6
+"EDGEWATER","injury, unintentional",20.2
+"EDGEWATER","stroke (cerebrovascular disease)",31.2
+"EDISON PARK","coronary heart disease",111.3
+"EDISON PARK","diabetes-related",15.5
+"EDISON PARK","injury, unintentional",24.6
+"EDISON PARK","stroke (cerebrovascular disease)",32.9
