@@ -1,0 +1,12 @@
+
+<table style="text-align:center"><caption><strong>Correlation Matrix</strong></caption>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">variable</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">PERCENT.OF.HOUSING.CROWDED</td><td>1</td><td>0.319</td><td>0.165</td><td>0.876</td><td>0.225</td><td>-0.542</td><td>0.650</td><td></td></tr>
+<tr><td style="text-align:left">PERCENT.HOUSEHOLDS.BELOW.POVERTY</td><td>0.319</td><td>1</td><td>0.800</td><td>0.424</td><td>0.436</td><td>-0.567</td><td>0.803</td><td></td></tr>
+<tr><td style="text-align:left">PERCENT.AGED.16..UNEMPLOYED</td><td>0.165</td><td>0.800</td><td>1</td><td>0.355</td><td>0.676</td><td>-0.656</td><td>0.792</td><td></td></tr>
+<tr><td style="text-align:left">PERCENT.AGED.25..WITHOUT.HIGH.SCHOOL.DIPLOMA</td><td>0.876</td><td>0.424</td><td>0.355</td><td>1</td><td>0.409</td><td>-0.710</td><td>0.803</td><td></td></tr>
+<tr><td style="text-align:left">PERCENT.AGED.UNDER.18.OR.OVER.64</td><td>0.225</td><td>0.436</td><td>0.676</td><td>0.409</td><td>1</td><td>-0.755</td><td>0.691</td><td></td></tr>
+<tr><td style="text-align:left">PER.CAPITA.INCOME</td><td>-0.542</td><td>-0.567</td><td>-0.656</td><td>-0.710</td><td>-0.755</td><td>1</td><td>-0.849</td><td></td></tr>
+<tr><td style="text-align:left">HARDSHIP.INDEX</td><td>0.650</td><td>0.803</td><td>0.792</td><td>0.803</td><td>0.691</td><td>-0.849</td><td>1</td><td></td></tr>
+<tr><td style="text-align:left">DISTANCE.NEAREST.HOSPITAL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

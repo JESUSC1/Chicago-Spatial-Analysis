@@ -1,0 +1,44 @@
+<table style="border-collapse:collapse; border:none;">
+<caption style="font-weight: bold; text-align:left;">Descriptive statistics for dependent variables</caption>
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Cause.of.Death</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">mean</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">SD</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">median</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">min</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">max</th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">coronary heart disease</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">144</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">140</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">83</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">248</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">diabetes-related</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">49</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">injury, unintentional</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">32</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">78</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; ">stroke (cerebrovascular disease)</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">45</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">41</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">88</td>
+</tr>
+</table>
+
