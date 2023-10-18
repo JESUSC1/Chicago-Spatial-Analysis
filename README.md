@@ -4,11 +4,8 @@ The purpose of this research project is to survey Chicago's socio-economic envir
 
 🛠️ Tech Stack: R, sp, sf, tidyverse, leaflet, plotly, and more.
 🌐 Objective: Analyze Chicago's socioeconomic factors & healthcare infrastructure.
-💡 Highlights:
+💡 Highlights:Merged multiple Chicago datasets, focusing on healthcare & socioeconomic trends.Geo-visualized city metrics, revealing areas with shared attributes. Identified clusters linking health outcomes with socioeconomic conditions.
 
-Merged multiple Chicago datasets, focusing on healthcare & socioeconomic trends.
-Geo-visualized city metrics, revealing areas with shared attributes.
-Identified clusters linking health outcomes with socioeconomic conditions.
 ---
 ## Data Source
 The project revolves around datasets related to the city of Chicago. The datasets capture:
