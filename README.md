@@ -2,7 +2,7 @@
 
 The purpose of this research project is to survey Chicago's socio-economic environment, 25 years after the 1995 heat wave --which resulted in about 514 heat-related deaths and 696 excess deaths primarily among low-income, African Americans-- for changes in structure against the backdrop of current population health statistics. Do current mortality rates follow the same patterns as observed in the 1995 heat wave, where "geography was linked to destiny"? If so, what can modern data tell us about people's living conditions and their capacity to deal with future disasters in the face of an ever-changing climate? 
 
-[View the reseach paper here](docs/sample.pdf)
+[View the reseach paper here](Final_Project_JC.pdf)
 ---
 ## Data Source
 The project revolves around datasets related to the city of Chicago. The datasets capture:
